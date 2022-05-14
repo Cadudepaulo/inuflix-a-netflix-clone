@@ -1,2 +1,2 @@
-# inuflix-a-netflix-clone
-Inuflix é o clone da netflix com conteúdo do anime Inuyasha
+# <h1>Inuflix - A Netflix Clone</h1>
+Inuflix is the netflix clone with content from the Inuyasha anime
